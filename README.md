@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evenbu
-- 👀 I’m interested in ... Robotics, Signal Processing, Machine Learning, Avionics, Micro Controllers
+- 👀 I’m interested in ... Avionics, Machine Learning, Electronics,Robotics, Signal Processing, Micro Controllers  
 - 🌱 I’m currently learning Signal Processing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
